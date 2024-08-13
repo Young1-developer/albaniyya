@@ -83,8 +83,8 @@ nav ul li a:hover{
 }
 
 .main-header.home{
-    background-image: url('../img/hero/us7.jpg');
-    background-position: center ;
+    background-image: url('../img/hero/albani\ \(4\).jpg');
+    background-position: center left top;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -160,9 +160,9 @@ nav ul li a:hover{
 }
  @keyframes back {
    
-    20%, 100%{background-image: url('../img/hero/us3.jpg');}
+    20%, 100%{background-image: url('../img/hero/albani\ \(5\).jpg');}
     /* 60%{background-image: url('../img/hero/us2.jpg');}*/
-    100%{background-image: url('../img/hero/us7.jpg');} 
+    100%{background-image: url('../img/hero/albani\ \(1\).jpg');} 
 } 
 .slide-text{
     background-color: transparent;
